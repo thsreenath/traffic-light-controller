@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "G:/Resume Projects/TrafficLightController/traffic_light_controller_tb_isim_beh.exe" -prj "G:/Resume Projects/TrafficLightController/traffic_light_controller_tb_beh.prj" "work.traffic_light_controller_tb" "work.glbl" 

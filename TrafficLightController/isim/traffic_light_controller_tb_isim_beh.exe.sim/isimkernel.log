@@ -1,0 +1,10 @@
+Command line:
+   traffic_light_controller_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52786
+
+Sun May 29 08:36:04 2016
+
+
+ Elaboration Time: 0.40625 sec
